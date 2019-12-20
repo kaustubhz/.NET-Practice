@@ -1,0 +1,5 @@
+F:\VK\dotnet\Day1\ECommerce3\ComplexNumber\bin\Debug\ComplexNumber.exe.config
+F:\VK\dotnet\Day1\ECommerce3\ComplexNumber\bin\Debug\ComplexNumber.exe
+F:\VK\dotnet\Day1\ECommerce3\ComplexNumber\bin\Debug\ComplexNumber.pdb
+F:\VK\dotnet\Day1\ECommerce3\ComplexNumber\obj\Debug\ComplexNumber.exe
+F:\VK\dotnet\Day1\ECommerce3\ComplexNumber\obj\Debug\ComplexNumber.pdb

@@ -1,0 +1,7 @@
+F:\VK\dotnet\Day1\ECommerce3\TestClassLib\bin\Debug\netstandard2.0\TestClassLib.deps.json
+F:\VK\dotnet\Day1\ECommerce3\TestClassLib\bin\Debug\netstandard2.0\TestClassLib.dll
+F:\VK\dotnet\Day1\ECommerce3\TestClassLib\bin\Debug\netstandard2.0\TestClassLib.pdb
+F:\VK\dotnet\Day1\ECommerce3\TestClassLib\obj\Debug\netstandard2.0\TestClassLib.AssemblyInfoInputs.cache
+F:\VK\dotnet\Day1\ECommerce3\TestClassLib\obj\Debug\netstandard2.0\TestClassLib.AssemblyInfo.cs
+F:\VK\dotnet\Day1\ECommerce3\TestClassLib\obj\Debug\netstandard2.0\TestClassLib.dll
+F:\VK\dotnet\Day1\ECommerce3\TestClassLib\obj\Debug\netstandard2.0\TestClassLib.pdb

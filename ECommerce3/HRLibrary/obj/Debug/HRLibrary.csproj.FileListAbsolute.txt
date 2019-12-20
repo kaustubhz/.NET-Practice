@@ -1,0 +1,5 @@
+F:\VK\dotnet\Day1\ECommerce3\HRLibrary\bin\Debug\HRLibrary.dll
+F:\VK\dotnet\Day1\ECommerce3\HRLibrary\bin\Debug\HRLibrary.pdb
+F:\VK\dotnet\Day1\ECommerce3\HRLibrary\obj\Debug\HRLibrary.dll
+F:\VK\dotnet\Day1\ECommerce3\HRLibrary\obj\Debug\HRLibrary.pdb
+F:\VK\dotnet\Day1\ECommerce3\HRLibrary\obj\Debug\HRLibrary.csprojAssemblyReference.cache

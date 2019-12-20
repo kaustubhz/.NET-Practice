@@ -1,0 +1,11 @@
+F:\VK\dotnet\Day1\ECommerce3\ECommerce3\bin\Debug\ECommerce3.exe.config
+F:\VK\dotnet\Day1\ECommerce3\ECommerce3\bin\Debug\ECommerce3.exe
+F:\VK\dotnet\Day1\ECommerce3\ECommerce3\bin\Debug\ECommerce3.pdb
+F:\VK\dotnet\Day1\ECommerce3\ECommerce3\obj\Debug\ECommerce3.exe
+F:\VK\dotnet\Day1\ECommerce3\ECommerce3\obj\Debug\ECommerce3.pdb
+F:\VK\dotnet\Day1\ECommerce3\ECommerce3\bin\Debug\TestLib.dll
+F:\VK\dotnet\Day1\ECommerce3\ECommerce3\bin\Debug\TestLib.pdb
+F:\VK\dotnet\Day1\ECommerce3\ECommerce3\obj\Debug\ECommerce3.csprojAssemblyReference.cache
+F:\VK\dotnet\Day1\ECommerce3\ECommerce3\obj\Debug\ECommerce3.csproj.CopyComplete
+F:\VK\dotnet\Day1\ECommerce3\ECommerce3\bin\Debug\HRLibrary.dll
+F:\VK\dotnet\Day1\ECommerce3\ECommerce3\bin\Debug\HRLibrary.pdb
